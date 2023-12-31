@@ -1,9 +1,14 @@
-# Instalocker
+# Instalocker #
 A simple GUI made with CustomTkinter that let's the user instalock an agent on VALORANT
 
 As this is my first ever release, there are bound to be flaws.
 I am sorry in advance, please kindly make an 'Issue' report and i'll see what I can do.
 
-# Settings
+## Settings ##
 Display Mode: Fullscreen or Windowed Fullscreen
 Resolution: 1920x1080
+
+  Settings    | 
+------------- | -------------
+Display Mode  | Fullscreen oe Windowed Fullscreen
+Resolution    | 1920 x 1080
