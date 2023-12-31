@@ -5,10 +5,5 @@ As this is my first ever release, there are bound to be flaws.
 I am sorry in advance, please kindly make an 'Issue' report and i'll see what I can do.
 
 ## Settings ##
-Display Mode: Fullscreen or Windowed Fullscreen
-Resolution: 1920x1080
-
-  Settings    | 
-------------- | -------------
-Display Mode  | Fullscreen oe Windowed Fullscreen
-Resolution    | 1920 x 1080
+- Display Mode: Fullscreen or Windowed Fullscreen
+- Resolution: 1920x1080
