@@ -3,3 +3,7 @@ A simple GUI made with CustomTkinter that let's the user instalock an agent on V
 
 As this is my first ever release, there are bound to be flaws.
 I am sorry in advance, please kindly make an 'Issue' report and i'll see what I can do.
+
+# Settings
+Display Mode: Fullscreen or Windowed Fullscreen
+Resolution: 1920x1080
